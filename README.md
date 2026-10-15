@@ -1,4 +1,4 @@
-# Money graph — team ker1mGo
+# Money graph — team ai-shack
 
 **Follow money from known seeds, inspect the evidence, and choose the next data request.**
 
