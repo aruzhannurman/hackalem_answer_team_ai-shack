@@ -3,8 +3,8 @@
 Нужны Git, Docker и Docker Compose 2.24 или новее.
 
 ```bash
-git clone https://github.com/BAITC-Hacks/hack-c4dedb1a-ker1mgo.git
-cd hack-c4dedb1a-ker1mgo
+git clone https://github.com/aruzhannurman/hackalem_answer_team_ai-shack.git
+cd hackalem_answer_team_ai-shack/hack-c4dedb1a-ker1mgo
 docker compose up --build
 ```
 
